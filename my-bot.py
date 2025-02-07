@@ -192,7 +192,7 @@ async def leave(ctx):
         await ctx.send("I leave now")
 
     else:
-        await ctx.send("Already gone, retard")
+        await ctx.send("Already gone, dummy")
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
